@@ -1,4 +1,4 @@
-# Vetor
+# Portugol
 Saber se o elemento de um vetor é menor que o próximo
 programa
 {
